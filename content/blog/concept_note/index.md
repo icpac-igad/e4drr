@@ -1,5 +1,5 @@
 ---
-title: Concept Note: E4DRR
+title: Concept Note- E4DRR
 summary: Hazard modeling, impact estimation, climate storylines for event catalogue on drought and flood disasters in the Eastern Africa.
 date: 2024-08-31
 
