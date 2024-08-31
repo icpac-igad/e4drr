@@ -7,7 +7,6 @@ date: 2024-08-31
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 
 authors:
-  #- admin
   # - Nishadh
 
 tags:

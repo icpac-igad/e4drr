@@ -1,6 +1,6 @@
 ---
-title: DevOps E4DRR: Code patterns, project management, infrastructure, workflow 
-summary: DevOps E4DRR: Code patterns, project management, infrastructure, workflow 
+title: DevOps E4DRR- Code patterns, project management, infrastructure, workflow 
+summary: DevOps E4DRR- Code patterns, project management, infrastructure, workflow 
 date: 2024-08-31
 
 # Featured image
