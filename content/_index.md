@@ -12,14 +12,14 @@ sections:
     content:
       title: E4DRR 
       text: |
-        - 🧱 "Risk knowledge is an essential component of effective disaster
+        - 🧱 Risk knowledge is an essential component of effective disaster
           risk management. The available impact data from previous disasters
           serve as invaluable tools for disaster preparedness and
           decisionmaking support. The project, titled "Hazard Modeling, Impact
           Estimation, Climate Storylines for Drought and Flood Disasters in
-          Eastern Africa" (short form “E4DRR”), is a two-year project
+          Eastern Africa" (in short form E4DRR), is a two-year project
           funded by the Complex Risk Analytics Fund (CRAF’d) and
-          implemented by ICPAC in collaboration with NORCAP." 🧱 
+          implemented by ICPAC in collaboration with NORCAP. 🧱 
           
       #primary_action: # text: Get Started
       #url: https://hugoblox.com/templates/
@@ -51,40 +51,41 @@ sections:
           description:  Enhanced Risk Knowledge and Awareness Through the Creation of Event-Based Climate Storylines
         - name: Operationalizing Impact Based Forecasting
           icon: code-bracket
-          description: Exploration of Storylines creation processes and applications in Ensemble Prediction System (EPS) Impact Based Forecasting (IBF)
+          description: Exploration of storylines creation processes and applications in Ensemble Prediction System (EPS) Impact Based Forecasting (IBF)
         - name: Capacity Development
           icon: star
-          description: In the Use of Methods and Tools for Storyline Creation 
+          description: On the use of methods and tools for storyline creation 
+
   - block: cta-image-paragraph
     id: solutions
     content:
       items:
         - title: Enhanced Risk knowledge
-          text: Composite Impact dataset for risk knowledge and awareness
-          feature_icon: check
+          text: Composite Impact dataset for risk knowledge and awareness, [Tasks ➡️](/blog/concept_note/#outcome-1)
+          feature_icon: bolt
           features:
-            - "Work package 1 Establish Hazard and Impact Modelling for the Region: Setting up of hazard and impact modelling for the region" 
-            - "Work package 2 Implement Co-development Method for Event-Based Climate Storylines: Implement a co-development method for event-based climate storylines"
-            - "Work package 3 Consolidate Composite Dataset and Storylines into Story Maps Linked with EAHW: Consolidate the composite dataset and storylines as story maps and link with East Africa Hazard Watch (EAHW) web application"            
+            - "Work package 1: Establish Hazard and Impact Modelling for the Region" 
+            - "Work package 2: Implement Co-development Method for Event-Based Climate Storylines"
+            - "Work package 3: Consolidate Composite Dataset and Storylines into Story Maps Linked with EAHW"            
           # Upload image to `assets/media/` and reference the filename here
           image: impact_data.png
 
         - title:  Operationalizing Impact Based Forecasting 
-          text: Ensemble Prediction System (EPS) Impact Based Forecasting (IBF)
+          text: Ensemble Prediction System (EPS) Impact Based Forecasting (IBF),  [Tasks ➡️](/blog/concept_note/#outcome-2)
           feature_icon: bolt
           features:
-            - "Work package 4 Establish an Analysis and Forecast Validation Facility Utilizing Storylines Datasets and Processes for Anticipatory Action"
-            - "Work package 5 Demonstrate the Application of Storylines as Bayesian Networks in IBF Risk and Decision Analysis"
-            - "Work package 6 Operationalize EPS IBF with Hazard and Impact Modelling for the Region Operationalise EPS IBF with hazards and impact modelling for the region"
+            - "Work package 4: Establish an Analysis and Forecast Validation Facility Utilizing Storylines Datasets and Processes for Anticipatory Action"
+            - "Work package 5: Demonstrate the Application of Storylines as Bayesian Networks in IBF Risk and Decision Analysis"
+            - "Work package 6: Operationalize EPS IBF with Hazard and Impact Modelling for the Region Operationalise EPS IBF with hazards and impact modelling for the region"
           # Upload image to `assets/media/` and reference the filename here
           image: bulletin.png
 
         - title:   Capacity Development 
-          text: In the Use of Methods and Tools for Storyline Creation
+          text: In the Use of Methods and Tools for Storyline Creation,  [Tasks ➡️](/blog/concept_note/#outcome-3)
           feature_icon: bolt
           features:
-            - "Work package 7 Develop Documentation and Training Materials on Methods and Tools Used in Storyline Creation Activities"
-            - "Work package 8 Conduct Capacity Development Activities in Co-development, Workshops and Tutorials"
+            - "Work package 7: Develop Documentation and Training Materials on Methods and Tools Used in Storyline Creation Activities"
+            - "Work package 8: Conduct Capacity Development Activities in Co-development, Workshops and Tutorials"
           # Upload image to `assets/media/` and reference the filename here
           image: bn-dm.png
 

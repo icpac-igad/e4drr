@@ -1,0 +1,81 @@
+\documentclass{standalone}
+\usepackage{tikz}
+%\definecolor{gridColor}{RGB}{0,123,255} % Define a color for the grid cells
+\definecolor{gridColor}{RGB}{0,0,0} % Changing color definition to black
+% Define colors for the risk matrix
+\definecolor{lowRisk}{RGB}{0,255,0} % Green
+\definecolor{mediumRisk}{RGB}{255,255,0} % Yellow
+\definecolor{highRisk}{RGB}{255,165,0} % Orange
+\definecolor{extremeRisk}{RGB}{255,0,0} % Red
+
+\begin{document}
+	
+	\begin{tikzpicture}
+		
+		% Define grid dimensions
+		\def\gridRows{7}
+		\def\gridCols{26}
+		\def\gridSize{0.3} % Size of each grid cell
+		\def\lineWidth{0.2pt} % Line width for grid lines
+		
+		% Draw vertical grid lines
+		\foreach \x in {0,...,\gridCols}
+		\draw[gray, line width=\lineWidth] (\x*\gridSize, 0) -- (\x*\gridSize, \gridRows*\gridSize);
+		
+		% Draw horizontal grid lines
+		\foreach \y in {0,...,\gridRows}
+		\draw[gray, line width=\lineWidth] (0, \y*\gridSize) -- (\gridCols*\gridSize, \y*\gridSize);
+		
+		% Fill grid cells to create "E4DR" design
+		% E (Already provided)
+		% "E"
+		\fill[gridColor] (1*\gridSize, 1*\gridSize) rectangle +(\gridSize, 5*\gridSize); % Vertical part of E
+		\fill[gridColor] (2*\gridSize, 1*\gridSize) rectangle +(3*\gridSize, \gridSize); % Bottom part of E
+		\fill[gridColor] (2*\gridSize, 3*\gridSize) rectangle +(2*\gridSize, \gridSize); % Middle part of E
+		\fill[gridColor] (2*\gridSize, 5*\gridSize) rectangle +(3*\gridSize, \gridSize); % Top part of E
+		
+		
+		
+		
+		
+		% 4
+		\fill[gridColor] (9*\gridSize, 1*\gridSize) rectangle +(\gridSize, 5*\gridSize); % Vertical part of 4
+		\fill[gridColor] (6*\gridSize, 3*\gridSize) rectangle +(3*\gridSize, \gridSize); % Horizontal part of 4
+		\fill[gridColor] (6*\gridSize, 4*\gridSize) rectangle +(\gridSize, 2*\gridSize); % Diagonal part of 4
+		
+		% 4 - Corrected Style
+		%\fill[gridColor] (6*\gridSize, 2*\gridSize) rectangle +(\gridSize, 4*\gridSize); % Vertical part of 4
+		%\fill[gridColor] (8*\gridSize, 1*\gridSize) rectangle +(\gridSize, 5*\gridSize); % Vertical part of 4
+		%\fill[gridColor] (6*\gridSize, 2*\gridSize) rectangle +(4*\gridSize, \gridSize); % Horizontal top part of 4
+		%\fill[gridColor] (7*\gridSize, 2*\gridSize) rectangle +(\gridSize, \gridSize); % Middle bottom left part of 4
+		%\fill[gridColor] (8*\gridSize, 2*\gridSize) rectangle +(\gridSize, 3*\gridSize); % Middle vertical part of 4
+		
+		
+		
+		% "D"
+		\fill[gridColor] (11*\gridSize, 1*\gridSize) rectangle +(\gridSize, 5*\gridSize); % Vertical part of D
+		\fill[gridColor] (12*\gridSize, 1*\gridSize) rectangle +(2*\gridSize, \gridSize); % Bottom part of D
+		\fill[gridColor] (12*\gridSize, 5*\gridSize) rectangle +(2*\gridSize, \gridSize); % Top part of D
+		\fill[gridColor] (14*\gridSize, 2*\gridSize) rectangle +(\gridSize, 3*\gridSize); % Middle part of D
+		
+		% "R"
+		\fill[gridColor] (16*\gridSize, 1*\gridSize) rectangle +(\gridSize, 5*\gridSize); % Vertical part of R
+		\fill[gridColor] (17*\gridSize, 5*\gridSize) rectangle +(2*\gridSize, \gridSize); % Top part of R
+		\fill[gridColor] (17*\gridSize, 3*\gridSize) rectangle +(2*\gridSize, \gridSize); % Middle part of R
+		\fill[gridColor] (19*\gridSize, 4*\gridSize) rectangle +(\gridSize, \gridSize); % Diagonal top part of R
+		\fill[gridColor] (19*\gridSize, 1*\gridSize) rectangle +(\gridSize, 2*\gridSize); % Diagonal bottom part of R
+
+        % "R"
+        \fill[gridColor] (21*\gridSize, 1*\gridSize) rectangle +(\gridSize, 5*\gridSize); % Vertical part of R
+        \fill[gridColor] (22*\gridSize, 5*\gridSize) rectangle +(2*\gridSize, \gridSize); % Top part of R
+        \fill[gridColor] (22*\gridSize, 3*\gridSize) rectangle +(2*\gridSize, \gridSize); % Middle part of R
+        \fill[gridColor] (24*\gridSize, 4*\gridSize) rectangle +(\gridSize, \gridSize); % Diagonal top part of R
+        \fill[gridColor] (24*\gridSize, 1*\gridSize) rectangle +(\gridSize, 2*\gridSize); % Diagonal bottom part of R
+		
+		\draw[black, line width=2pt] (0, 0) rectangle (\gridCols*\gridSize, \gridRows*\gridSize);
+		
+		
+		
+	\end{tikzpicture}
+	
+\end{document}
