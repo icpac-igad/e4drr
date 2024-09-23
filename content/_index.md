@@ -61,7 +61,7 @@ sections:
     content:
       items:
         - title: Enhanced Risk knowledge
-          text: Composite Impact dataset for risk knowledge and awareness, [Tasks ➡️](e4drr/blog/concept_note/#outcome-1)
+          text: Composite Impact dataset for risk knowledge and awareness, [Tasks ➡️](/blog/concept_note/#outcome-1)
           feature_icon: bolt
           features:
             - "Work package 1: Establish Hazard and Impact Modelling for the Region" 
