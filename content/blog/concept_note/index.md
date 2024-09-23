@@ -17,7 +17,7 @@ tags:
 
 ## Activites of project:
 
-## Outcome 1. Enhanced Risk Knowledge and Awareness Through the Creation of Event-Based Climate Storylines {#outcome-1} 
+## <a id="outcome-1"></a> Outcome 1. Enhanced Risk Knowledge and Awareness Through the Creation of Event-Based Climate Storylines
 
 **Work package 1** Establish Hazard and Impact Modelling for the Region: Setting up of hazard and impact modelling for the region
 
@@ -70,7 +70,7 @@ tags:
 * **Activity 1.3.5** Experiment Gen AI for event-based climate storylines
     * Explore the role of Generative AI Large Language Models (LLMs/chatGPT) in Bayesian and causal network creation and provide chat support with storylines narrative.
 
-## Outcome 2: Exploration of Storylines creation processes and applications in Ensemble Prediction System (EPS) Impact-Based Forecasting (IBF) {#outcome-2}
+## <a id="outcome-2"></a> Outcome 2: Exploration of Storylines creation processes and applications in Ensemble Prediction System (EPS) Impact-Based Forecasting (IBF)
 
 **Work package 4** Establish an Analysis and Forecast Validation Facility Utilizing Storylines Datasets and Processes for Anticipatory Action: Develop analysis and forecast validation facility utilizing storyline dataset and processes for anticipatory action
 
@@ -100,7 +100,7 @@ Operationalize EPS IBF with hazards and impact modeling for the region
 * **Activity 2.3.3** Experiment generative AI for EPS
     * Explore the application of Generative AI (cGAN) in bias correction and downscaling of EPS data in an operational setup.
 
-## Outcome 3: Capacity Development in the Use of Methods and Tools for Storyline Creation {#outcome-3}
+## <a id="outcome-3"></a> Outcome 3: Capacity Development in the Use of Methods and Tools for Storyline Creation
 
 **Work package 7** Develop Documentation and Training Materials on Methods and Tools Used in Storyline Creation Activities
 Prepare documentation and training materials on methods and tools used in storyline creation
