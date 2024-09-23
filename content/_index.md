@@ -61,7 +61,7 @@ sections:
     content:
       items:
         - title: Enhanced Risk knowledge
-          text: Composite Impact dataset for risk knowledge and awareness, [Tasks ➡️](/blog/concept_note/#outcome-1)
+          text: Composite Impact dataset for risk knowledge and awareness, [Tasks ➡️](e4drr/blog/concept_note/#outcome-1)
           feature_icon: bolt
           features:
             - "Work package 1: Establish Hazard and Impact Modelling for the Region" 
@@ -71,7 +71,7 @@ sections:
           image: impact_data.png
 
         - title:  Operationalizing Impact Based Forecasting 
-          text: Ensemble Prediction System (EPS) Impact Based Forecasting (IBF),  [Tasks ➡️](/blog/concept_note/#outcome-2)
+          text: Ensemble Prediction System (EPS) Impact Based Forecasting (IBF),  [Tasks ➡️](e4drr/blog/concept_note/#outcome-2)
           feature_icon: bolt
           features:
             - "Work package 4: Establish an Analysis and Forecast Validation Facility Utilizing Storylines Datasets and Processes for Anticipatory Action"
@@ -81,7 +81,7 @@ sections:
           image: bulletin.png
 
         - title:   Capacity Development 
-          text: In the Use of Methods and Tools for Storyline Creation,  [Tasks ➡️](/blog/concept_note/#outcome-3)
+          text: In the Use of Methods and Tools for Storyline Creation,  [Tasks ➡️](e4drr/blog/concept_note/#outcome-3)
           feature_icon: bolt
           features:
             - "Work package 7: Develop Documentation and Training Materials on Methods and Tools Used in Storyline Creation Activities"
