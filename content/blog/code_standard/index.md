@@ -1,7 +1,7 @@
 ---
 title: DevOps E4DRR- Code patterns, project management, infrastructure, workflow 
 summary: DevOps E4DRR- Code patterns, project management, infrastructure, workflow 
-date: 2024-09-26
+date: 2024-11-04
 
 authors:
   # - Nishadh
@@ -152,11 +152,26 @@ Managing complex workflows in large systems requires specialized tools, especial
 
 ### 4.1 ECMWF Workflow System
 
-The European Centre for Medium-Range Weather Forecasts (ECMWF) uses an advanced workflow management system to coordinate complex meteorological and environmental forecasting tasks. This system handles diverse data inputs and manages the dependencies between different forecasting models and datasets.
+The European Centre for Medium-Range Weather Forecasts (ECMWF) uses an advanced
+workflow management system ([ecFlow/pyflow](https://github.com/ecmwf/pyflow))[1] to
+coordinate complex meteorological and environmental forecasting tasks. This
+system handles diverse data inputs and manages the dependencies between
+different forecasting models and datasets.
 
-### 4.2 Impact-Based Forecasting with Perfect
+### 4.2 Impact-Based Forecasting with Prefect
 
-For Impact-Based Forecasting (IBF), where the focus is on predicting the potential impacts of weather events (e.g., flooding, extreme temperatures), it's critical to use a system that can manage multiple workflows and datasets simultaneously. We use Perfect, an open-source, managed service that orchestrates all components required for IBF.
+For Impact-Based Forecasting (IBF), which focuses on predicting the potential
+impacts of weather events such as flooding and extreme temperatures, it is
+critical to use a system capable of managing multiple workflows and datasets
+simultaneously. We utilize Prefect, an open-source, managed service that
+orchestrates all the necessary components for IBF. The development of Prefect,
+originally designed for financial risk management [2], provides significant
+motivation for its use in routine impact-based forecasting and positions it as
+a valuable tool from a risk assessment perspective. This approach aligns well
+with prevailing directives on weather and climate risk assessment, which
+advocate for conducting risk assessments whenever possible with whatever data
+is available.
+
 
 Key Features of Perfect:
 - **Data Ingestion**: Automatically ingests multiple data products needed for risk assessment, including meteorological data, GIS data, and historical impact data.
@@ -166,3 +181,8 @@ Key Features of Perfect:
 Perfect's open-source nature also allows for custom integrations and the ability to run it on both local infrastructure and cloud environments.
 
 By integrating these best practices and technologies, we ensure that our development process is both scalable and robust, capable of handling the growing complexity of modern applications.
+
+Refrences
+
+1. https://confluence.ecmwf.int/display/ecFlow
+2. https://www.prefect.io/blog/how-jeremiah-lowin-turned-a-life-long-question-into-an-industry-leading-startup

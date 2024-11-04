@@ -95,7 +95,7 @@ sections:
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Coimposite Impact Dataset DevOps IBF
+      title: Composite Impact Dataset - DevOps IBF
       text: Quick updates on the Development.  <br>   <small> Disclaimer-The content of this website does not reflect the official opinion of the Funding agency or partner organizations. Responsibility for the information and views expressed in the web lies entirely with the authors  </small>.
       button:
         text: Learn more
