@@ -1,5 +1,5 @@
 ---
-title: Verification for Impact Impact-Based Forecasting: Decision centric approach 
+title: Verification for Impact Impact-Based Forecasting- Decision centric approach 
 summary: The fundamental purpose of impact-based forecasting is not just accurate
 prediction, but enabling better decisions that reduce negative outcomes.
 Therefore, verification methods should reflect this ultimate goal.
