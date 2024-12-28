@@ -1,8 +1,6 @@
 ---
-title: Verification for Impact Impact-Based Forecasting- Decision centric approach 
-summary: The fundamental purpose of impact-based forecasting is not just accurate
-prediction, but enabling better decisions that reduce negative outcomes.
-Therefore, verification methods should reflect this ultimate goal.
+title: Decision-centric approach to Impact Based Forecasting verification
+summary: The goal of IBF is better decision-making, forecast verification must align with this purpose.
 date: 2024-12-28
 
 authors:
@@ -13,6 +11,8 @@ tags:
 # - Active Inference
 # - Bayesian Networks 
 ---
+
+
 ## Introduction 
 
 Modern weather and climate services increasingly focus on impact-based
