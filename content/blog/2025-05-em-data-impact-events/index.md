@@ -29,7 +29,7 @@ The repository generates annual maps to visualize the extent of drought events.
 
 The repository generates annual maps to visualize the extent of drought events.
 
-![Drought Extent Map](drought_extent.png)
+![Drought Extent Map](flood_extent.png)
 
 ---
 
