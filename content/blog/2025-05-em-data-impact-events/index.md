@@ -19,7 +19,7 @@ The [ea-impact-events GitHub repository](https://github.com/icpac-igad/ea-impact
 
 ## Year-wise Drought Maps
 
-The repository generates annual maps to visualize the extent of drought events.
+Map showing the extent of drought events year wise.
 
 ![Drought Extent Map](drought_extent.png)
 
@@ -27,15 +27,15 @@ The repository generates annual maps to visualize the extent of drought events.
 
 ## Year-wise Flood Maps
 
-The repository generates annual maps to visualize the extent of drought events.
+Map showing the extent of flood events year wise.
 
-![Drought Extent Map](flood_extent.png)
+![Flood Extent Map](flood_extent.png)
 
 ---
 
 ## Frequency of Drought events in East Africa, 1990–2025 
 
-Mps showing the frequency of drought events over the period 1990–2025.
+Map showing the frequency of drought events over the period 1990–2025.
 
 ![Drought Frequency Map](1990-2025_dr.png)
 
@@ -43,7 +43,7 @@ Mps showing the frequency of drought events over the period 1990–2025.
 
 ## Frequency of Flood events in East Africa, 1990–2025 
 
-Mps showing the frequency of flood events over the period 1990–2025.
+Map showing the frequency of flood events over the period 1990–2025.
 
 
 ![Flood Frequency Map](1990-2025_fl.png)
