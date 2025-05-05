@@ -33,7 +33,7 @@ The repository generates annual maps to visualize the extent of drought events.
 
 ---
 
-## Frequency-based Drought Maps (1990–2025)
+## Frequency of Drought events in East Africa, 1990–2025 
 
 Mps showing the frequency of drought events over the period 1990–2025.
 
@@ -41,7 +41,7 @@ Mps showing the frequency of drought events over the period 1990–2025.
 
 ---
 
-## Section 5: Frequency-based Flood Maps (1990–2025)
+## Frequency of Flood events in East Africa, 1990–2025 
 
 Mps showing the frequency of flood events over the period 1990–2025.
 
