@@ -9,7 +9,23 @@ authors:
 tags:
 # - East Africa Drought
 ---
-# East Africa Flood Disaster Events
+# East Africa Flood Disaster Events for E4DRR storylines
+
+| country\_name | event\_period (YYYYMMDD) | EM‑DAT list                                                               |
+| ------------- | ------------------------ | ------------------------------------------------------------------------- |
+| Burundi       | 20231001‑20231231        | no data                                                                   |
+| Djibouti      | 20191101‑20191130        | 2019‑0579‑DJI                                                             |
+| Eritrea       | 20240401‑20240531        | no data                                                                   |
+| Ethiopia      | 20240401‑20240531        | 2024‑0341‑ETH                                                             |
+| Kenya         | 20240401‑20240531        | 2024‑0150‑KEN, 2024‑0210‑KEN, 2024‑0247‑KEN, 2024‑0892‑KEN                |
+| Rwanda        | 20230501‑20230531        | 2023‑0267‑RWA                                                             |
+| Somalia       | 20231001‑20231231        | 2023‑0172‑SOM, 2023‑0295‑SOM, 2023‑0683‑SOM, 2023‑0741‑SOM                |
+| South Sudan   | 20240901‑20241031        | 2024‑0673‑SSD                                                             |
+| Sudan         | 20240701‑20240830        | 2024‑0544‑SDN                                                             |
+| Tanzania      | 20231101‑20240430        | 2023‑0226‑TZA, 2023‑0236‑TZA, 2023‑0807‑TZA, 2024‑0203‑TZA, 2024‑0879‑TZA |
+| Uganda        | 20230801‑20230931        | 2023‑0262‑UGA                                                             |
+**Flood disaster events for Storylines**
+
 
 ## Burundi (BUR)
 - **Cause**: El Niño-induced heavy rainfall, occurring between October-December 2023

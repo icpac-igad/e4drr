@@ -9,7 +9,25 @@ authors:
 tags:
 # - East Africa Drought
 ---
-# East Africa Drought Disaster Events
+# East Africa Drought Disaster Events for E4DRR storylines
+
+
+| country\_name | event\_period (YYYYMMDD) | EM‑DAT list                  |
+| ------------- | ------------------------ | ---------------------------- |
+| Burundi       | 202101‑202212            | no data                      |
+| Djibouti      | 202101‑202312            | no data                      |
+| Eritrea       | 202101‑202312            | no data                      |
+| Ethiopia      | 202001‑202312            | 2021‑9546‑ETH, 2022‑9174‑ETH |
+| Kenya         | 202001‑202312            | 2021‑9152‑KEN                |
+| Rwanda        | 201601‑201712            | no data                      |
+| Somalia       | 202001‑202312            | 2021‑9152‑SOM                |
+| South Sudan   | 201901‑202212            | 2021‑9639‑SSD                |
+| Sudan         | 202001‑202312            | 2022‑9788‑SDN                |
+| Tanzania      | 202201‑202312            | no data                      |
+| Uganda        | 202101‑202212            | 2022‑9436‑UGA                |
+
+**Droguht disaster events for Storylines**
+
 
 ## Burundi (BUR)
 - **Period**: 2021-2022 Drought
