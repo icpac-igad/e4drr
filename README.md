@@ -1,6 +1,4 @@
-# E4DRR
-
-# Hazard Modeling, Impact Estimation, and Climate Storylines for Drought and Flood Disasters in Eastern Africa
+## Hazard Modeling, Impact Estimation, and Climate Storylines for Drought and Flood Disasters in Eastern Africa
 
 This project aims to enhance the **East Africa Hazard Watch Portal** as a decision-support and actionable information tool for Disaster Risk Management (DRM). It uses impact-based forecasting grounded on a chain of auditable evidence synthesized from event-based climate storylines.
 
