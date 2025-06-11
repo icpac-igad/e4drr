@@ -8,12 +8,12 @@ This project aims to enhance the **East Africa Hazard Watch Portal** as a decisi
 
 <!-- First row: smaller logo -->
 <p align="center">
-  <img src="tex/e4drr_logo.pdf" alt="CRAF'd Logo" height="60" style="margin: 10px;" />
+  <img src="tex/e4drr_logo-1.png" alt="CRAF'd Logo" height="60" style="margin: 10px;" />
 </p>
 
 <!-- Second row: larger logos -->
 <p align="center">
-  <img src="tex/descriptive_e4drr_logo.pdf" alt="ICPAC Logo" height="100" style="margin: 10px 30px 10px 0;" />
+  <img src="tex/descriptive_e4drr_logo-1.png" alt="ICPAC Logo" height="100" style="margin: 10px 30px 10px 0;" />
 </p>
 
 ---
