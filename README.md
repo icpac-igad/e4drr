@@ -30,8 +30,8 @@ The Complex Risk Analytics Fund (CRAF’d) is the first and only multi-partner i
 
 ### Project Partners
 
-- **ICPAC** (IGAD Climate Prediction and Applications Centre)  
-- **NORCAP** (Norwegian Refugee Council's Capacity Pool)
+- **ICPAC**   
+- **NORCAP** 
 
 <p align="left">
   <img src="assets/media/icpac-logo.png" alt="ICPAC Logo" height="80" style="margin-right: 20px;" />
