@@ -14,6 +14,9 @@ tags:
 #- Hugo Blox
 # - Markdown
 ---
+## Theory of Change 
+
+![e4drr-toc](e4drr-toc.png)
 
 ## Activites of project:
 
