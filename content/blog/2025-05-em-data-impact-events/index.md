@@ -1,6 +1,6 @@
 ---
-title: East Africa Drought Disaster Events
-summary: East Africa Drought Disaster Events
+title: East Africa Disaster Events Frequency Maps
+summary: East Africa Disaster Events Frequency Maps
 date: 2025-05-05
 
 authors:
