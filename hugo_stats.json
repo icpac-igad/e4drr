@@ -434,8 +434,10 @@
       "flox-dask-for-zonal-aggregation",
       "frequency-of-drought-events-in-east-africa-19902025",
       "frequency-of-flood-events-in-east-africa-19902025",
+      "gefs-data-streaming-for-cgan-inference",
       "geosfm-hydrological-model",
       "gpu-cloud-computing-workflow",
+      "grib-index-kerchunk-method",
       "hide-button",
       "icechunk-and-zarr-storage",
       "infrastructure",
@@ -481,6 +483,7 @@
       "sudan-sdn",
       "sun",
       "tanzania-tza",
+      "the-challenge-11-variables-for-cgan",
       "the-em-dat-database-east-africa-drought-and-flood-impact-events-analysis",
       "the-kubernetes-alternative",
       "the-need-for-cloud-computing-in-geospatial-analysis",
@@ -493,6 +496,7 @@
       "uganda-uga",
       "veda-data-advisor",
       "workflow-architecture",
+      "workflow-components",
       "year-wise-drought-maps",
       "year-wise-flood-maps"
     ]
