@@ -14,9 +14,11 @@ tags:
   - Hazard Modeling
 ---
 
+*This blog post was inspired by the [eWaterCycle model landscape documentation](https://www.ewatercycle.org/Landscape.html), particularly their discussion of "Friendly Neighbourhood Hydrological Models" and the challenges of standardization in hydrological modeling.*
+
 ## The Standards Problem
 
-The classic XKCD cartoon captures a familiar dilemma: faced with 14 competing standards, someone creates a 15th "universal" standard—resulting in 15 competing standards. Yet sometimes standardization genuinely solves interoperability challenges, particularly when grounded in principled frameworks like FAIR.
+The [eWaterCycle project](https://www.ewatercycle.org/Landscape.html) aptly captures the challenge of building a "Friendly Neighbourhood" of hydrological models through the classic [XKCD cartoon on standards](https://xkcd.com/927/) (credit: xkcd): faced with 14 competing standards, someone creates a 15th "universal" standard—resulting in 15 competing standards. Yet sometimes standardization genuinely solves interoperability challenges, particularly when grounded in principled frameworks like FAIR.
 
 ## FAIR Principles for Hydrological Modeling
 
