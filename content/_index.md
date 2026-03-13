@@ -99,7 +99,7 @@ sections:
       text: Quick updates on the Development.  <br>   <small> Disclaimer-The content of this website does not reflect the official opinion of the Funding agency or partner organizations. Responsibility for the information and views expressed in the web lies entirely with the authors  </small>.
       button:
         text: Learn more
-        url: /blog
+        url: /e4drr/blog
     design:
       card:
         # Card background color (CSS class)
