@@ -15,11 +15,11 @@ tags:
   - East Africa
 ---
 
-*This post is a continuation of the earlier discussion on [Decision-Centric Verification for Impact-Based Forecasting](/blog/2024-12-dcv/), which introduced Bayesian frameworks and event-based storylines as tools for aligning forecasts with real-world decision-making.*
+*This post is a continuation of the earlier discussion on [Decision-Centric Verification for Impact-Based Forecasting](/e4drr/blog/2024-12-dcv/), which introduced Bayesian frameworks and event-based storylines as tools for aligning forecasts with real-world decision-making.*
 
 ## From Verification to Continuous Monitoring
 
-The [decision-centric verification (DCV) framework](/blog/2024-12-dcv/) shifted the question from "Was the forecast accurate?" to "Did the forecast lead to better decisions?". Extending this logic further: rather than verifying decisions after the fact, can we build a system that continuously updates risk assessments as new evidence arrives—before the decision window closes?
+The [decision-centric verification (DCV) framework](/e4drr/blog/2024-12-dcv/) shifted the question from "Was the forecast accurate?" to "Did the forecast lead to better decisions?". Extending this logic further: rather than verifying decisions after the fact, can we build a system that continuously updates risk assessments as new evidence arrives—before the decision window closes?
 
 This is the premise of **Continuous Risk Monitoring and Assessment (CRMA)**.
 
@@ -29,7 +29,7 @@ CRMA is well-established in financial auditing and cyber-risk management, where 
 
 Hydrometeorological early warning systems already operate this way in practice—daily flood monitoring, monthly drought tracking, seasonal outlooks—but often informally and without a unified probabilistic framework that is transparent, auditable, and reproducible.
 
-The CRMA framework introduced here, developed under the [Complex Risk Analytics Fund (CRAF'd)](https://www.craf-d.com/) project, formalizes these existing monitoring practices into a **continuous, conditional, evidence-driven hydrometeorological risk assessment process**, where evolving observations, forecasts, and expert knowledge are systematically integrated, documented, and auditable across time.
+The CRMA framework introduced here formalizes these existing monitoring practices into a **continuous, conditional, evidence-driven hydrometeorological risk assessment process**, where evolving observations, forecasts, and expert knowledge are systematically integrated, documented, and auditable across time.
 
 ## Bayesian Networks as the Engine
 
